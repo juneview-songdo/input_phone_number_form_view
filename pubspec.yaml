@@ -1,7 +1,7 @@
 name: input_phone_number_form_view
 description: "input phone number form view for june flow"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/input_phone_number_form_view
 
 version: 1.0.0+1
 
