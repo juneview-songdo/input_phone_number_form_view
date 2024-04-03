@@ -3,7 +3,7 @@ description: "input phone number form view for june flow"
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/input_phone_number_form_view
 
-version: 1.0.0+1
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
